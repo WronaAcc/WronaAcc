@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WronaAcc
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Python(pandas)/js
+- 🌱 I’m currently learning Python(pandas,flask)/js
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me Email: Holahfk@gmail.com
