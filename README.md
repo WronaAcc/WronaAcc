@@ -1,13 +1,13 @@
 👋 Hi, I’m **Karol Wrona**  
 
-💡 I’m passionate about **backend development** and exploring the world of **cloud computing** and **Big Data**.
+Hi, I'm Karol Wrona.
 
-🌱 I’m currently learning **Java**, **Spring Boot**, and **REST APIs**, while working on a **Diagnosis AI** project in **Spring Boot**.  
+Focused on data engineering and backend development with Python.
 
-🧠 I’m also developing AIHealthAdvisor, a health-focused web application powered by Python, FastAPI, and PostgreSQL, where I integrate machine learning models and manage deployments using Docker and CI/CD pipelines.
+Currently building an AI Diagnosis Assistant using Python, OpenAI APIs and FastAPI.
 
-💻 I have hands-on experience with **Python** and **SQL**.  
+Interested in data pipelines, ETL/ELT workflows, and data systems.
 
-🤝 I’m looking to collaborate on projects related to **backend systems**, **database management**, or **cloud solutions**.  
+Tech: Python • SQL • Pandas • SQLAlchemy • FastAPI • PostgreSQL
 
 📫 How to reach me: [wronadev@gmail.com](mailto:wronadev@gmail.com)  
