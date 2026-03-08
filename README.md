@@ -1,7 +1,5 @@
 👋 Hi, I’m **Karol Wrona**  
 
-Hi, I'm Karol Wrona.
-
 Focused on data engineering and backend development with Python.
 
 Currently building an AI Diagnosis Assistant using Python, OpenAI APIs and FastAPI.
